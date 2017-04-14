@@ -5,5 +5,10 @@ public class kk {
 		System.out.println("wer");
 		System.out.println("wer");
 		System.out.println("wer");
+		System.out.println("wer");
+		System.out.println("wer");
+		System.out.println("wer");
+		System.out.println("wer");
+		System.out.println("wer");
 	}
 }
